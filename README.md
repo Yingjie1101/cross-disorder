@@ -1,4 +1,4 @@
-# cross-disorder
+# Cross-disorder PheWAS/LabWAS project
 
 ### Disease prevalence 
 [BioVU vs MGBB](https://yingjie1101.github.io/cross-disorder/case_prevalence.html)
