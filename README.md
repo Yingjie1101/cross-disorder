@@ -1,7 +1,7 @@
 # cross-disorder
 
 ### Disease prevalence 
-[BioVU vs MGBB](ttps://yingjie1101.github.io/cross-disorder/case_prevalence.html)
+[BioVU vs MGBB](https://yingjie1101.github.io/cross-disorder/case_prevalence.html)
 
 ### Interactive PheWAS Manhattan plots
 **Main results:** [**Meta-analysis**](https://yingjie1101.github.io/cross-disorder/Manhattan_meta-analysis.html)
