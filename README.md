@@ -1,10 +1,10 @@
 # cross-disorder
 
-### Disease prevalence for each site
-File path: https://yingjie1101.github.io/cross-disorder/case_prevalence.html
+### Disease prevalence 
+[BioVU vs MGBB](ttps://yingjie1101.github.io/cross-disorder/case_prevalence.html)
 
 ### Interactive PheWAS Manhattan plots
-**Main results:** [**Meta-analysis**](https://yingjie1101.github.io/cross-disorder/Manhattan_meta-analysis_.html)
+**Main results:** [**Meta-analysis**](https://yingjie1101.github.io/cross-disorder/Manhattan_meta-analysis.html)
 
 Contributing sites:
 [BioVU](https://yingjie1101.github.io/cross-disorder/Manhattan_BioVU.html)
