@@ -50,7 +50,7 @@ African ancestry:
 [BioVU-AFR]()
 
 **Main results:** [**Meta-analysis**](https://yingjie1101.github.io/cross-disorder/Manhattan_meta-analysis.html)
-
+[try.pdf](https://yingjie1101.github.io/cross-disorder/mental_effect_size_meta_bar_OR)
 ### analyses
 #### Model 1: Baseline covariates: sex at birth, median age, current age, PCs 1-10
 Presented in [Main text](https://docs.google.com/spreadsheets/d/1tOXFNNVdJeFoduR0pvEYp2JstzpdpaDp/edit?usp=drive_link&ouid=112280523773673764750&rtpof=true&sd=true)
