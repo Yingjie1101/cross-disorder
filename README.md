@@ -4,22 +4,20 @@
 [BioVU vs MGBB](https://yingjie1101.github.io/cross-disorder/case_prevalence.html)
 
 ### Interactive PheWAS Manhattan plots
-Primary PheWAS model + four step-wise conditional PheWAS models
+Primary PheWAS model + four step-wise conditional PheWAS models:
 
-**Compulsive factor**(https://yingjie1101.github.io/cross-disorder/Manhattan_meta-analysis.html)
+[**Compulsive factor**](https://yingjie1101.github.io/cross-disorder/Manhattan_meta-analysis.html)
 
-**Internalizing factor**
+[**Internalizing factor**]()
 
-**Neurodevelopmental factor**
+[**Neurodevelopmental factor**]()
 
-**SUD factor**
+[**SUD factor**]()
 
-**Thought factor**
+[**Thought factor**]()
 
-**Hierarchical factor**
+[**Hierarchical factor**]()
 
-
-**Main results:** [**Meta-analysis**](https://yingjie1101.github.io/cross-disorder/Manhattan_meta-analysis.html)
 
 Contributing samples:
 European ancestry:
@@ -28,6 +26,33 @@ European ancestry:
 [MGB(MEGA)](https://yingjie1101.github.io/cross-disorder/Manhattan_MGB.MEGA.html)
 African ancestry:
 [BioVU-AFR]()
+
+### Interactive LabWAS Manhattan plots
+Primary LabWAS model + four step-wise conditional LabWAS models:
+
+[**Compulsive factor**]()
+
+[**Internalizing factor**]()
+
+[**Neurodevelopmental factor**]()
+
+[**SUD factor**]()
+
+[**Thought factor**]()
+
+[**Hierarchical factor**]()
+
+Contributing samples:
+European ancestry:
+[BioVU-EUR]()
+[MGB(GSA)]()
+[MGB(MEGA)]()
+African ancestry:
+[BioVU-AFR]()
+
+
+
+**Main results:** [**Meta-analysis**](https://yingjie1101.github.io/cross-disorder/Manhattan_meta-analysis.html)
 
 ### analyses
 #### Model 1: Baseline covariates: sex at birth, median age, current age, PCs 1-10
