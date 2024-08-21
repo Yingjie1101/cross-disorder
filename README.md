@@ -4,53 +4,50 @@
 [BioVU vs MGBB](https://yingjie1101.github.io/cross-disorder/case_prevalence.html)
 
 ### Interactive PheWAS Manhattan plots
-Primary PheWAS model + four step-wise conditional PheWAS models:
+**Meta-analysis**: Primary PheWAS model + four step-wise conditional PheWAS models:
 
-[**Compulsive factor**](https://yingjie1101.github.io/cross-disorder/Manhattan_meta-analysis.html)
+First-order factors:
+[Compulsive factor](https://yingjie1101.github.io/cross-disorder/Manhattan_meta-analysis.html)
+[Internalizing factor]()
+[Neurodevelopmental factor]()
+[SUD factor]()
+[Thought factor]()
 
-[**Internalizing factor**]()
+p-factor:
+[Hierarchical factor]()
 
-[**Neurodevelopmental factor**]()
+**Contributing samples**:
 
-[**SUD factor**]()
-
-[**Thought factor**]()
-
-[**Hierarchical factor**]()
-
-
-Contributing samples:
 European ancestry:
 [BioVU-EUR](https://yingjie1101.github.io/cross-disorder/Manhattan_BioVU.html)
 [MGB(GSA)](https://yingjie1101.github.io/cross-disorder/Manhattan_MGB.GSA.html)
 [MGB(MEGA)](https://yingjie1101.github.io/cross-disorder/Manhattan_MGB.MEGA.html)
+
 African ancestry:
 [BioVU-AFR]()
 
 ### Interactive LabWAS Manhattan plots
-Primary LabWAS model + four step-wise conditional LabWAS models:
+**Meta-analysis**: Primary LabWAS model + four step-wise conditional LabWAS models:
 
-[**Compulsive factor**]()
+First-order factors:
+[Compulsive factor]() 
+[Internalizing factor]()
+[Neurodevelopmental factor]()
+[SUD factor]()
+[Thought factor]()
 
-[**Internalizing factor**]()
+p-factor:
+[Hierarchical factor]()
 
-[**Neurodevelopmental factor**]()
+**Contributing samples**:
 
-[**SUD factor**]()
-
-[**Thought factor**]()
-
-[**Hierarchical factor**]()
-
-Contributing samples:
 European ancestry:
 [BioVU-EUR]()
 [MGB(GSA)]()
 [MGB(MEGA)]()
+
 African ancestry:
 [BioVU-AFR]()
-
-
 
 **Main results:** [**Meta-analysis**](https://yingjie1101.github.io/cross-disorder/Manhattan_meta-analysis.html)
 
