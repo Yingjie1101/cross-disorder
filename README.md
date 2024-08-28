@@ -4,6 +4,7 @@
 **Meta-analysis**: Primary PheWAS model + four step-wise conditional PheWAS models:
 
 First-order factors:
+
 [Compulsive factor](https://yingjie1101.github.io/cross-disorder/Manhattan_meta-analysis.html)
 
 [Thought factor]()
@@ -22,6 +23,7 @@ p-factor:
 **Meta-analysis**: Primary LabWAS model + four step-wise conditional LabWAS models:
 
 First-order factors:
+
 [Compulsive factor](https://yingjie1101.github.io/cross-disorder/Manhattan_meta-analysis.html)
 
 [Thought factor]()
