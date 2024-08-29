@@ -1,6 +1,6 @@
 # Cross-disorder PheWAS/LabWAS project
 
-### Interactive PheWAS Manhattan plots (eFigures 2.1-2.6)
+### eFigures 2.1-2.6: Interactive PheWAS Manhattan plots
 **Meta-analysis**: Primary PheWAS model + four step-wise conditional PheWAS models:
 
 First-order factors:
@@ -19,12 +19,12 @@ First-order factors:
 p-factor:
 [Hierarchical factor](https://yingjie1101.github.io/cross-disorder/Meta_analysis_Manhattan_Hier.html)
 
-### Interactive LabWAS Manhattan plots
+### eFigures x.1-x.6: Interactive LabWAS Manhattan plots
 **Meta-analysis**: Primary LabWAS model + four step-wise conditional LabWAS models:
 
 First-order factors:
 
-[Compulsive factor](https://yingjie1101.github.io/cross-disorder/Manhattan_meta-analysis.html)
+[Compulsive factor](link to be added)
 
 [Thought factor]()
 
