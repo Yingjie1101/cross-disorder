@@ -5,35 +5,36 @@
 
 First-order factors:
 
-[Compulsive factor](https://yingjie1101.github.io/cross-disorder/Meta_analysis_Manhattan_Comp.html)
+[Compulsive factor](https://yingjie1101.github.io/cross-disorder/PheWAS_Comp.html)
 
-[Thought factor](https://yingjie1101.github.io/cross-disorder/Meta_analysis_Manhattan_Thou.html)
+[Thought factor](https://yingjie1101.github.io/cross-disorder/PheWAS_Thou.html)
 
-[Neurodevelopmental factor](https://yingjie1101.github.io/cross-disorder/Meta_analysis_Manhattan_Neur.html)
+[Neurodevelopmental factor](https://yingjie1101.github.io/cross-disorder/PheWAS_Neur.html)
 
-[Internalizing factor](https://yingjie1101.github.io/cross-disorder/Meta_analysis_Manhattan_Inte.html)
+[Internalizing factor](https://yingjie1101.github.io/cross-disorder/PheWAS_Inte.html)
 
-[SUD factor](https://yingjie1101.github.io/cross-disorder/Meta_analysis_Manhattan_SUD.html)
+[SUD factor](https://yingjie1101.github.io/cross-disorder/PheWAS_SUD.html)
 
 
 p-factor:
-[Hierarchical factor](https://yingjie1101.github.io/cross-disorder/Meta_analysis_Manhattan_Hier.html)
+[Hierarchical factor](https://yingjie1101.github.io/cross-disorder/PheWAS_Hier.html)
 
 ### eFigures x.1-x.6: Interactive LabWAS Manhattan plots
 **Meta-analysis**: Primary LabWAS model + four step-wise conditional LabWAS models:
 
 First-order factors:
 
-[Compulsive factor](link to be added)
+[Compulsive factor](https://yingjie1101.github.io/cross-disorder/LabWAS_Comp.html)
 
-[Thought factor]()
+[Thought factor](https://yingjie1101.github.io/cross-disorder/LabWAS_Thou.html)
 
-[Neurodevelopmental factor]()
+[Neurodevelopmental factor](https://yingjie1101.github.io/cross-disorder/LabWAS_Neur.html)
 
-[Internalizing factor]()
+[Internalizing factor](https://yingjie1101.github.io/cross-disorder/LabWAS_Inte.html)
 
-[SUD factor]()
+[SUD factor](https://yingjie1101.github.io/cross-disorder/LabWAS_SUD.html)
 
 p-factor:
-[Hierarchical factor]()
+[Hierarchical factor](https://yingjie1101.github.io/cross-disorder/LabWAS_Hier.html)
+
 
