@@ -19,7 +19,7 @@ First-order factors:
 p-factor:
 [Hierarchical factor](https://yingjie1101.github.io/cross-disorder/PheWAS_Hier.html)
 
-### eFigures x.1-x.6: Interactive LabWAS Manhattan plots
+### eFigures 6.1-6.6: Interactive LabWAS Manhattan plots
 **Meta-analysis**: Primary LabWAS model + four step-wise conditional LabWAS models:
 
 First-order factors:
